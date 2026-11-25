@@ -39,6 +39,7 @@ The research draws on [Constitutional AI](https://arxiv.org/abs/2212.08073), [Ge
 | [Scenarios](SCENARIOS.md) | Illustrative real-life dilemmas |
 | [Limitations](LIMITATIONS.md) | Scientific and theological caveats |
 | [References](REFERENCES.md) | Academic and Islamic source register |
+| [Research status report v0.1](RESEARCH-STATUS-v0.1.md) | Concept-stage outcomes, gaps and next steps |
 | [Roadmap](ROADMAP.md) | Publication and research milestones |
 | [Contributing](CONTRIBUTING.md) | How to offer constructive feedback |
 
@@ -50,6 +51,6 @@ AI researchers, engineers, Islamic scholars, ethicists, philosophers and behavio
 
 ## Status
 
-Concept only. No software, trained models, experimental results, formal scholarly endorsement or institutional affiliation are claimed. The English proposal is the initial publication; the draft ethical framework is now published for review; an Arabic edition is planned. The repository is publicly readable; a reuse license has not yet been selected.
+Concept only. No software, trained models, experimental results, formal scholarly endorsement or institutional affiliation are claimed. The English proposal is the initial publication; the draft ethical framework is now published for review; Arabic whitepaper and presentation materials have been prepared but are not yet distributed through this repository. The repository is publicly readable; a reuse license has not yet been selected.
 
 Project maintained by [itumor](https://github.com/itumor). AI-assisted drafting was used in preparing this proposal.
