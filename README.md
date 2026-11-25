@@ -44,6 +44,8 @@ The research draws on [Constitutional AI](https://arxiv.org/abs/2212.08073), [Ge
 
 ## Join the discussion
 
+**Open call for review and collaboration (English / العربية):** [Public review thread #1](https://github.com/itumor/amanah-research/issues/1). Researchers and scholars are invited to offer specific, source-grounded criticism.
+
 AI researchers, engineers, Islamic scholars, ethicists, philosophers and behavioral scientists are invited to critique the design. Use [Discussions](https://github.com/itumor/amanah-research/discussions) for open questions or [Issues](https://github.com/itumor/amanah-research/issues) for specific corrections. Please distinguish evidence from opinion and respect differences in scholarly interpretation.
 
 ## Status
