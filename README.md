@@ -8,7 +8,7 @@
 
 ## The idea
 
-Imagine giving an AI agent a simulated human life: a career, family commitments, financial resources, ambitions, relationships, memory and the ability to make decisions. Instead of optimizing only for task completion or financial gain, the agent operates under a documented ethical constitution derived from Islamic sources and reviewed by qualified scholars.
+Imagine giving an AI agent a simulated human life: a career, family commitments, financial resources, ambitions, relationships, memory and the ability to make decisions. Instead of optimizing only for task completion or financial gain, the agent operates under a documented ethical constitution derived from Islamic sources and intended for review by qualified scholars.
 
 What happens when telling the truth threatens its promotion? When an attractive opportunity conflicts with its ethical commitments? When justice requires acting against its own simulated interests?
 
@@ -35,6 +35,7 @@ The research draws on [Constitutional AI](https://arxiv.org/abs/2212.08073), [Ge
 | [Concept](CONCEPT.md) | Motivation, philosophy and boundaries |
 | [Research questions](RESEARCH-QUESTIONS.md) | Testable hypotheses and falsification |
 | [Experiment design](EXPERIMENT-DESIGN.md) | Controls, agents, measurements and study phases |
+| [Draft Islamic ethical constitution](ISLAMIC-CONSTITUTION.md) | Twenty proposed rules, source governance and decision procedure |
 | [Scenarios](SCENARIOS.md) | Illustrative real-life dilemmas |
 | [Limitations](LIMITATIONS.md) | Scientific and theological caveats |
 | [References](REFERENCES.md) | Academic and Islamic source register |
@@ -47,6 +48,6 @@ AI researchers, engineers, Islamic scholars, ethicists, philosophers and behavio
 
 ## Status
 
-Concept only. No software, trained models, experimental results, formal scholarly endorsement or institutional affiliation are claimed. The English proposal is the initial publication; an Arabic edition and a detailed ethical framework are planned. The repository is publicly readable; a reuse license has not yet been selected.
+Concept only. No software, trained models, experimental results, formal scholarly endorsement or institutional affiliation are claimed. The English proposal is the initial publication; the draft ethical framework is now published for review; an Arabic edition is planned. The repository is publicly readable; a reuse license has not yet been selected.
 
 Project maintained by [itumor](https://github.com/itumor). AI-assisted drafting was used in preparing this proposal.
